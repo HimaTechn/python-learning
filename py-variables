@@ -1,0 +1,4 @@
+name=input("Enter Your other name:")
+age=input("Enter your age:")
+GPA=input("Enter GPA:")
+print(f"{name} your GPA is {GPA} and you are {age} years old.")
